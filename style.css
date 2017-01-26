@@ -1,0 +1,64 @@
+body{
+	
+	background-image:url("background.png");
+	background-size: auto;
+	background-repeat: no-repeat;
+}
+td{
+	margin-left:100px;
+	display:block;
+	background-color:#ddf3f6;
+	height:40px;
+	padding-top:30px;
+	padding-right:2px;
+	border-radius:5px;
+	padding-left: 15px;
+	margin-top: 5px;
+    
+}
+p{
+
+	color: white;
+	margin-left: 100px;
+	font-weight:bold;
+}
+#input1{
+	width:500px;
+	margin-left:10px
+}
+#input2{
+
+	width:500px;
+	margin-left:2px
+}
+#table2{
+	height:auto;
+	width: 580px;
+}
+#table3{
+	padding-right:0px;
+	margin-right:35px;
+}
+#table4{
+	height:40px;
+}
+#table5{
+	height:auto;
+}
+
+
+#images{
+margin-left: 30px;
+margin-top: 50px;
+
+}
+#div1{
+	margin-left: 380px;
+}
+#label1{
+display:block;
+}
+#input3{
+	width:500px;
+	position:absolute;
+}
